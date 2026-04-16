@@ -404,7 +404,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OvI_P2WHOEeFuYPs-Nxm" name="Page-2">
-    <mxGraphModel dx="2571" dy="1436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2389" dy="1436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -671,10 +671,58 @@
     </mxGraphModel>
   </diagram>
   <diagram id="z0MdnSmadDwG4oLmaRh8" name="Page-3">
-    <mxGraphModel dx="1414" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="674" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cAXHjMLaVBXGpcAEk5XP-18" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" value="Team 1&lt;div&gt;Front-end&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="480" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="cAXHjMLaVBXGpcAEk5XP-19" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" value="Team 5&lt;div&gt;High scheduler&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="480" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="cAXHjMLaVBXGpcAEk5XP-20" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" value="Team 6&lt;div&gt;Mid scheduler&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="480" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="cAXHjMLaVBXGpcAEk5XP-21" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" value="&lt;div&gt;Robots &amp;amp; Turntable&lt;/div&gt;Control Teams" vertex="1">
+          <mxGeometry height="40" width="110" x="390" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="cAXHjMLaVBXGpcAEk5XP-22" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" value="&lt;div&gt;Team 3&amp;amp;4&lt;/div&gt;&lt;div&gt;Tracking&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="110" x="560" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="cAXHjMLaVBXGpcAEk5XP-25" edge="1" parent="1" source="cAXHjMLaVBXGpcAEk5XP-19" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="cAXHjMLaVBXGpcAEk5XP-18" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="510" y="670" as="sourcePoint" />
+            <mxPoint x="560" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cAXHjMLaVBXGpcAEk5XP-26" edge="1" parent="1" source="cAXHjMLaVBXGpcAEk5XP-20" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="cAXHjMLaVBXGpcAEk5XP-19" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="600" y="650" as="sourcePoint" />
+            <mxPoint x="600" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cAXHjMLaVBXGpcAEk5XP-27" edge="1" parent="1" source="cAXHjMLaVBXGpcAEk5XP-21" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="cAXHjMLaVBXGpcAEk5XP-20" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="580" y="690" as="sourcePoint" />
+            <mxPoint x="580" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cAXHjMLaVBXGpcAEk5XP-28" edge="1" parent="1" source="cAXHjMLaVBXGpcAEk5XP-22" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="cAXHjMLaVBXGpcAEk5XP-20" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="530" y="770" as="sourcePoint" />
+            <mxPoint x="530" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cAXHjMLaVBXGpcAEk5XP-29" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="620" y="610" as="sourcePoint" />
+            <mxPoint x="620" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cAXHjMLaVBXGpcAEk5XP-30" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" value="Team 2&lt;div&gt;Communications&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="630" y="560" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
